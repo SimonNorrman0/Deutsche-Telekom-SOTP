@@ -4,7 +4,7 @@
 
 This project presents a full valuation of Deutsche Telekom AG using a **Sum-of-the-Parts (SOTP)** framework.
 
-Due to Deutsche Telekom's diversified business structure and majority ownership of **T-Mobile US (TMUS)**, a traditional consolidated valuation was considered insufficient. Instead, each operating segment was valued separately and combined to derive an implied equity value and target share price.
+Due to Deutsche Telekom's diversified business structure and majority ownership of **T-Mobile US (TMUS)**, each operating segment was valued separately and combined to derive an implied equity value and target share price.
 
 The analysis includes:
 
@@ -13,13 +13,13 @@ The analysis includes:
 - Trading Comparable Company Analysis
 - Precedent Transaction Analysis
 - Football Field Valuation
-- Investment Memo
+- Very brief Investment Memo
 
 ---
 
 ## Investment Thesis
 
-The market values Deutsche Telekom primarily through a European telecom lens while underappreciating the value of its majority stake in T-Mobile US.
+The market values Deutsche Telekom primarily through a European telecom perspective while underappreciating the value of its majority stake in T-Mobile US.
 
 A Sum-of-the-Parts approach reveals that the standalone value of the TMUS stake, combined with Deutsche Telekom's highly stable European operations, supports a valuation materially above the current market price.
 
