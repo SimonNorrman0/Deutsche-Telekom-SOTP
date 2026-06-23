@@ -98,6 +98,13 @@ The project produces:
 - Valuation Range
 - Football Field Analysis
 
+<img width="908" height="281" alt="image" src="https://github.com/user-attachments/assets/bcce6ee4-26ec-48e7-8707-61c90c02624f" />
+
+<img width="910" height="488" alt="image" src="https://github.com/user-attachments/assets/62031ba0-974a-4eb4-a593-508883ec9078" />
+
+
+
+
 ---
 
 ## Skills Demonstrated
