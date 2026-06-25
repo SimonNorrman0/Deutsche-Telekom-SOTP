@@ -107,7 +107,7 @@ The project produces:
 
 ---
 
-## Skills Demonstrated
+## Skills Used
 
 - Financial Modeling
 - Discounted Cash Flow (DCF) Analysis
